@@ -1,0 +1,9 @@
+package com.netsurfingzone.constant;
+
+public class ApplicationConstantClusterA {
+    public static final String KAFKA_LOCAL_SERVER_CONFIG = "35.240.191.251:9092";
+	public static final String GROUP_ID_STRING = "group-id-string-2";
+	public static final String TOPIC_NAME = "topic-test-1";
+	public static final String KAFKA_LISTENER_CONTAINER_FACTORY = "kafkaListenerContainerFactory";
+	public static final String GROUP_ID_JSON = "group-id-json-2";
+}
